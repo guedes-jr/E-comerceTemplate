@@ -17,3 +17,10 @@ git remote add origin https://github.com/guedes-jr/E-comerceTemplate.git
 git branch -M main
 git push -u origin main
 ```
+
+## tutorial
+- Ecommerce Website HTML CSS Javascript - Complete Responsive Multipage
+    - https://youtu.be/qKoe69-xy4M?t=282
+
+- Ecommerce Website HTML CSS Javascript - Complete Responsive Multipage PART#2
+    - https://www.youtube.com/watch?v=LWbYb6Z4D78
