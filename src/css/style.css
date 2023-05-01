@@ -108,7 +108,7 @@ h4 {
   padding: 0 0.938em;
 }
 
-.flexwraper {
+.flexwrapper {
   display: flex;
   flex-wrap: wrap;
 }
