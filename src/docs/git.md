@@ -20,7 +20,7 @@ git push -u origin main
 
 ## tutorial
 - Ecommerce Website HTML CSS Javascript - Complete Responsive Multipage
-    - https://youtu.be/qKoe69-xy4M?t=282
+    - https://youtu.be/qKoe69-xy4M?t=1108
 
 - Ecommerce Website HTML CSS Javascript - Complete Responsive Multipage PART#2
     - https://www.youtube.com/watch?v=LWbYb6Z4D78
